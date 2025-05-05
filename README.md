@@ -12,6 +12,8 @@ A Streamlit web application for reducing noise in astronomical images using a ma
 * 🔍 Patch-wise comparison of noisy and denoised images
 * 🧠 ML-based denoising backend (`simple_denoise`)
 * 💾 SQLite database for storing user data and image records
+* streamlit run app.py
+
 
 ---
 

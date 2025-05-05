@@ -1,6 +1,3 @@
-Here's a suitable **GitHub repository description** for your `app.py` project:
-
----
 
 ## 📡 Astronomical Image Noise Reduction with Machine Learning
 

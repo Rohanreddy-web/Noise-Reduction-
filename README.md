@@ -12,7 +12,3 @@ A Streamlit web application for reducing noise in astronomical images using a ma
 * streamlit run app.py
 
 
----
-
-Let me know if you'd like a matching `README.md` with installation instructions and screenshots.
-
